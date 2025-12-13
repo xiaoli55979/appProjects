@@ -1,7 +1,7 @@
 
 {
   "com.switchproject.cn": {
-    "enabled": false,
+    "enabled": true,
     "git_url": "https://raw.githubusercontent.com/xiaoli55979/projectconfig/main/config.json",
     "description": "Switch Project 测试应用"
   }
