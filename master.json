@@ -5,5 +5,11 @@
     "git_url": "https://raw.githubusercontent.com/xiaoli55979/app081/main/config.json",
     "enable_debug":false,
     "description": "你好,您欠费停机了"
+  },
+  "com.MoodTracker.in": {
+    "enabled": true,
+    "git_url": "https://raw.githubusercontent.com/xiaoli55979/bq66/main/config.json",
+    "enable_debug":true,
+    "description": "欢迎使用D直播,请联系管理员"
   }
 }
