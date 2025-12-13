@@ -1,7 +1,7 @@
 
 {
   "com.switchproject.cn": {
-    "enabled": false,
+    "enabled": true,
     "git_url": "https://raw.githubusercontent.com/xiaoli55979/app081/main/config.json",
     "enable_debug":true,
     "description": "你好,您欠费停机了"
