@@ -15,7 +15,7 @@
   "com.dazzle.cn": {
     "enabled": true,
     "git_url": "https://raw.githubusercontent.com/xiaoli55979/bq66/main/config.json",
-    "enable_debug":true,
+    "enable_debug":false,
     "description": "欢迎使用D直播,请联系管理员"
   }
 }
