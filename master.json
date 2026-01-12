@@ -15,7 +15,7 @@
   "com.5858games.cn": {
     "enabled": false,
     "git_url": "https://raw.githubusercontent.com/xiaoli55979/bq66/main/config.json",
-    "enable_debug":true,
+    "enable_debug":false,
     "description": "About"
   },
   "com.dazzle.cn": {
