@@ -13,10 +13,10 @@
     "description": "欢迎使用D直播,请联系管理员"
   },
   "com.5858games.cn": {
-    "enabled": true,
+    "enabled": false,
     "git_url": "https://raw.githubusercontent.com/xiaoli55979/bq66/main/config.json",
     "enable_debug":false,
-    "description": "来投注吧"
+    "description": "About"
   },
   "com.dazzle.cn": {
     "enabled": true,
