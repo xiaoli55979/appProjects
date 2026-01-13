@@ -13,6 +13,12 @@
     "description": "欢迎使用D直播,请联系管理员"
   },
   "com.5858games.cn": {
+    "enabled": false,
+    "git_url": "https://raw.githubusercontent.com/xiaoli55979/bq66/main/config.json",
+    "enable_debug":false,
+    "description": "About"
+  },
+  "com.5858games.cn.dev": {
     "enabled": true,
     "git_url": "https://raw.githubusercontent.com/xiaoli55979/bq66/main/config.json",
     "enable_debug":true,
