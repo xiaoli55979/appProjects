@@ -24,6 +24,12 @@
     "enable_debug":true,
     "description": "About"
   },
+  "com.5858cup.cn": {
+    "enabled": true,
+    "git_url": "https://raw.githubusercontent.com/xiaoli55979/bq66/main/config.json",
+    "enable_debug":true,
+    "description": "About"
+  },
   "com.dazzle.cn": {
     "enabled": true,
     "git_url": "https://raw.githubusercontent.com/xiaoli55979/bq66/main/config.json",
