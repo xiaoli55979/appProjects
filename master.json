@@ -25,7 +25,7 @@
     "description": "About"
   },
   "com.5858cup.cn": {
-    "enabled": true,
+    "enabled": false,
     "git_url": "https://raw.githubusercontent.com/xiaoli55979/bq66/main/config.json",
     "enable_debug":true,
     "description": "About"
